@@ -27,10 +27,6 @@
 **Databases:** MongoDB, MySQL  
 **Tools:** VS Code, Git, GitHub, Postman  
 
----
-
-### 📈 GitHub Stats
-![Gowda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ggowda2004&show_icons=true&theme=radical)
 
 ---
 
