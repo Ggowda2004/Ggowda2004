@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Gangadhar Gowda K M  
 
-💻 **CSE Student | Python & Flask Developer | ML Enthusiast**
+💻 **CSE Student | Python & FastAPI Developer | ML Enthusiast**
 
 ---
 
 ### 🚀 About Me
 - 🎓 Pursuing Computer Science Engineering  
-- 💡 Passionate about **Python, AI/ML, and Full Stack Web Development**  
-- 🔧 Experienced with **Flask, MongoDB, React, and Tailwind CSS**  
+- 💡 Passionate about **Python, AI/ML, and Backend Web Development**  
+- 🔧 Experienced with **FastAPI, Flask, MongoDB, React, and Tailwind CSS**  
 - 📚 Currently learning **Data Structures & Algorithms (DSA)**  
 - 🧠 Interested in creating **AI-integrated web apps**
 
@@ -23,7 +23,7 @@
 
 ### 🛠️ Tech Stack
 **Languages:** Python, JavaScript, C  
-**Frameworks:** Flask, React.js, TailwindCSS  
+**Frameworks:** FastAPI, Flask, React.js, TailwindCSS  
 **Databases:** MongoDB, MySQL  
 **Tools:** VS Code, Git, GitHub, Postman  
 
